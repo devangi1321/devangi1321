@@ -4,9 +4,9 @@
 
 🌍🏕️🏝️Besides ,  i  am good in
 <BR>
-HTML 
+HTML5
 <BR>
- CSS 
+ CSS3
  <BR>
  JAVASCRIPT 
   <BR> 
