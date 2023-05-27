@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Web Design (FRONTEND) :octocat:
 
-🌍🏕️🏝️Besides ,  i  am good in HTML , CSS AND JAVASCRIPT
+🌍🏕️🏝️Besides ,  i  am good in HTML , CSS , JAVASCRIPT , BOOTSTRAP AND REACT
 
 📫 How to reach me devangigurav2007@gmail.com
  
