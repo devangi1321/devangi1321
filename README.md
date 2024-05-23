@@ -17,10 +17,7 @@ HTML5
 C++
 <BR>
 📫 How to reach me devangigurav2007@gmail.com
- 
-🌱PLATFORMS : mimo
-            sololearn
-            
+<br>        
 languages : HTML
             CSS
             JAVASCRIPT
