@@ -10,10 +10,12 @@ HTML5
  <BR>
  JAVASCRIPT 
   <BR> 
- BOOTSTRAP
+ BOOTSTRAP 5
    <BR>
  REACT
-
+<br>
+C++
+<BR>
 📫 How to reach me devangigurav2007@gmail.com
  
 🌱PLATFORMS : mimo
@@ -21,4 +23,4 @@ HTML5
             
 languages : HTML
             CSS
-            JAVASCRIPT🧑‍💻
+            JAVASCRIPT
