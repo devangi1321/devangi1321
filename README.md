@@ -15,6 +15,12 @@ HTML5
  REACT
 <br>
 C++
+<br>
+Python
+<br>
+Java
+<br>
+Kotlin
 <BR>
 📫 How to reach me devangigurav2007@gmail.com
 <br>        
